@@ -16,3 +16,6 @@ INSERT INTO products (product_name, price, stock_quantity) VALUES
 ("Green Fleece Blanket", 13.99, 75),
 ("Rachel Ray Pot Set", 149.99, 30),
 ("256G MicroSD Card", 34.99, 150)
+
+SELECT * FROM products;
+
